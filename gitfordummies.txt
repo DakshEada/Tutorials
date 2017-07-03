@@ -1,0 +1,2 @@
+i am modifying the file in the remote repository.
+I want to check how git pull functions and how can version control works.
