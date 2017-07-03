@@ -1,0 +1,2 @@
+this file is created in 03_july branch.
+It is to practice git merge cmd.
